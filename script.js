@@ -9,7 +9,7 @@ const imageupadate = document.querySelector(".icons");
 
 // ========================== key
 const key = "&APPID=b6bdb80e9d03ad3dc958d6eaed3df552";
-const APIKey = `http://api.openweathermap.org/data/2.5/weather?units=metric&q=`;
+const APIKey = `https://api.openweathermap.org/data/2.5/weather?units=metric&q=`;
 
 // ===================================
 var IconsUpdate;
